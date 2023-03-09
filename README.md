@@ -7,10 +7,13 @@ resized clip art using https://pixlr.com/x/#editor
 edited and reduced clip art style to 100px x 100 px for better positioning on mobile
 
 emojis taken from
-
 https://emojipedia.org/party-popper/
 https://emojipedia.org/necktie/
 https://emojipedia.org/pile-of-poo/
 Offical rules of RPS taken from
 
 https://wrpsa.com/the-official-rules-of-rock-paper-scissors/
+
+
+creating a table 
+-https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/#:~:text=Tables%20are%20a%20great%20way,help%20of%20a%20CSS%20file.
