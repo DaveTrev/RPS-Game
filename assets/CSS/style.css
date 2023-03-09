@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(173, 113, 102);
+    min-height: 100vh;
+}
+
+header {
+    background-color: antiquewhite;
+    padding: 20px;
+    font-size: larger;
+    border-style: groove;
+}
+
+header>h1 {
+    text-align: center;
+    color: #24272e;
+    font-family: "Tilt Neon", sans-serif;
+}
+
+h2 {
+    text-align: center;
+    line-height: 3;
+}
