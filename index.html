@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Rock Paper Scissors Game</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+    <h1>Rock Paper Scissors</h1>
+    <h2>Computer choice: </h2>
+    <h2>User choice: </h2>
+    <h2>Result: </h2>
+
+    <div class="game-choices">
+        <div class="choice" id="rock">
+            <img src="images/rock100px.png" alt="cartoon rock" />
+          </div>
+          <div class="choice" id="paper">
+            <img src="images/paper100px.png" alt="cartoon paper" />
+          </div>
+          <div class="choice" id="scissors">
+            <img src="images/scissors100px.png" alt="cartoon scissors" />
+    </div>
+    
+    <div id="reset">
+        <p id="action-message">Make your move - First to 5 Wins!</p>
+        <button onclick="reset()">Reset the Game!</button>
+        <br>
+        <button id="open">click me</button>
+        <div class="modal-container" id="modal_container">
+          <div class="modal" id="">
+            <h1>Rules of Rock paper scissors</h1>
+            <p>Rock wins over scissors (because rock smashes scissors)
+              <br>
+              Scissors wins over paper (because scissors cut paper)
+              <br>
+              Paper wins over rock (because paper covers rock)
+            </p>
+            <button id="close">Close me</button>
+          </div>
+        </div>
+        </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
