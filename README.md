@@ -16,4 +16,9 @@ https://wrpsa.com/the-official-rules-of-rock-paper-scissors/
 
 
 creating a table 
--https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/#:~:text=Tables%20are%20a%20great%20way,help%20of%20a%20CSS%20file.
+- https://www.freecodecamp.org/news/html-tables-table-tutorial-with-css-example-code/#:~:text=Tables%20are%20a%20great%20way,help%20of%20a%20CSS%20file.
+- https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse
+
+
+bugs
+header and area collapses and moves away from right side of the screen under 300px
