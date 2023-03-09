@@ -70,7 +70,7 @@ header>h1 {
     font-family: "Tilt Neon", sans-serif;
     font-weight: bold;
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 18px;
 }
 
 button {
@@ -82,13 +82,26 @@ button {
     border-radius: 5px;
 }
 
+.game-buttons {
+    font-family: "Tilt Neon", sans-serif;
+    display: flex;
+    padding: 10px;
+    margin: 0 10px;
+    font-size: 15px;
+    color: black;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+  
+}
+
 .modal-container {
     position: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
     opacity: 0;
-    pointer-events: none; 
+    pointer-events: none;
     top: 0;
     left: 0;
     height: 100vh;
@@ -120,7 +133,7 @@ button {
     opacity: 0.7;
     color: black;
     font-size: large;
-} 
+}
 
 footer {
     bottom: 0;
@@ -136,5 +149,5 @@ footer {
     width: 309px;
     text-align: center;
     padding: 43px;
-    color: #ffffff;
+    color: black;
 }
